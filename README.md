@@ -17,6 +17,7 @@ Napoj se hned na můj [discord server](https://miftik.tk/discord)!
 - [Moje toolka na zakódování url do Base64](http://edlinkme.epizy.com)
 - [Moje první hra](http://miftweb.epizy.com/games/kolotoc)
 
-## Ostatní odkazy
+## Nezapomeň dát follow!
 - [Můj tiktok účet](https://tiktok.com/@miftikcz)
+- [Můj instagram účet](https://instagram.com/miftikcz)
 
