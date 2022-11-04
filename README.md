@@ -1,23 +1,20 @@
 # Ahoj, jsem MiftikCZ
 
-### Dělám discord boty, weby, aplikace a dřív jsem dělal i hry.
+### Dělám webové aplikace a frontend desing v HTML & CSS, učím se vytvářet hry i mobilní aplikace.
 
+## 🔥 Moje asi nejlepší projekty
+- [Drinko](https://miftikcz.github.io/drinko-app)
+- [Recepty na ovesné kaše](https://miftikcz.github.io/vlocky)
+- je jich mnohem víc ale většinu z nich jsem nezveřejnil 🔒
 
-Napoj se hned na můj [discord server](https://miftik.tk/discord)!
+# informace
+- programuji 2-3 roky
+- vytořené věci najdeš u mě [na webu](https://miftik.tk)
 
-## Můj web
-- https://miftik.tk
-
-## Můj nejpopulárnější discord bot
-- https://statsplus.tk
-
-## Věci které jsem vytvořil
-- [Moje chatovací aplikace](https://lygly.tk)
-- [Můj starý web](http://miftweb.epizy.com)
-- [Moje toolka na zakódování url do Base64](http://edlinkme.epizy.com)
-- [Moje první hra](http://miftweb.epizy.com/games/kolotoc)
-
-## Nezapomeň dát follow!
-- [Můj tiktok účet](https://tiktok.com/@miftikcz)
-- [Můj instagram účet](https://instagram.com/miftikcz)
-
+### ⚒️ JAZYKY
+- HTML
+- CSS
+- JAVASCRIPT
+- FLUTTER
+- REACT
+- GDSCRIPT (godot game engine)
