@@ -5,6 +5,7 @@
 ## 🔥 Moje asi nejlepší projekty
 - [Drinko](https://miftikcz.github.io/drinko-app)
 - [Recepty na ovesné kaše](https://miftikcz.github.io/vlocky)
+- [Idea Keeper](https://miftikcz.github.io/idea-keeper)
 - je jich mnohem víc ale většinu z nich jsem nezveřejnil 🔒
 
 # informace
