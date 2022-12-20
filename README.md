@@ -18,4 +18,5 @@
 - JAVASCRIPT
 - FLUTTER
 - REACT
+- SVELTE
 - GDSCRIPT (godot game engine)
