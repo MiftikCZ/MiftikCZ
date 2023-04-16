@@ -1,4 +1,4 @@
-[![Aktivita](https://github-readme-activity-graph.cyclic.app/graph?username=MiftikCZ&bg_color=141419&color=deddda&line=5a74a6&point=403d3d&area=true&hide_border=true)](https://github.com/MiftikCZ)
+![image](https://user-images.githubusercontent.com/89579269/232324615-a37dbc4c-2480-43ac-8405-d787f334de82.png)
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Ahoj! Jsem MiftikCZ</h2>
 <p align="center">
