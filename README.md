@@ -21,10 +21,10 @@
 
 **⚒️ Zkušenosti**
 <p>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" /><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /><img height="32" width="32" src="https://cdn.simpleicons.org/preact" /><img height="32" width="32" src="https://cdn.simpleicons.org/react" /><img height="32" width="32" src="https://cdn.simpleicons.org/html5" /><img height="32" width="32" src="https://cdn.simpleicons.org/css3" /><img height="32" width="32" src="https://cdn.simpleicons.org/git" /><img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" /><img height="32" width="32" src="https://cdn.simpleicons.org/linux" /><img height="32" width="32" src="https://cdn.simpleicons.org/markdown" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/preact" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react" /> <img height="32" width="32" src="https://cdn.simpleicons.org/python" /> <img height="32" width="32" src="https://cdn.simpleicons.org/html5" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3" /> <img height="32" width="32" src="https://cdn.simpleicons.org/git" /> <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" /> <img height="32" width="32" src="https://cdn.simpleicons.org/linux" /> <img height="32" width="32" src="https://cdn.simpleicons.org/markdown" />
 </p>
 
 **📖 Jazyky které částečné umím**
 <p>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" /><img height="32" width="32" src="https://cdn.simpleicons.org/godotengine" /><img height="32" width="32" src="https://cdn.simpleicons.org/rust" /><img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" /> <img height="32" width="32" src="https://cdn.simpleicons.org/godotengine" /> <img height="32" width="32" src="https://cdn.simpleicons.org/rust" />
 </p>
