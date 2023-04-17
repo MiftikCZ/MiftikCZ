@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/89579269/232324615-a37dbc4c-2480-43ac-8405-d787f334de82.png)
+![image](https://user-images.githubusercontent.com/89579269/232533481-82bfaf3b-7e96-4360-bad3-5fa8daaf0c7a.png)
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Ahoj! Jsem MiftikCZ</h2>
 <p align="center">
