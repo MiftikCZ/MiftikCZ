@@ -66,8 +66,9 @@ body {
 
 .section.first .skills .skill {
     font-size: 0.9em;
-    background: #343144aa;
-    color: #aab;
+    background: #443f52;
+    /*color: #aab;*/
+    color: #9b7af4;
     padding: 0.25em 0.5em;
     border-radius: 0.5em;
 }
