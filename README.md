@@ -28,3 +28,5 @@
 <p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" /> <img height="32" width="32" src="https://cdn.simpleicons.org/godotengine" /> <img height="32" width="32" src="https://cdn.simpleicons.org/rust" />
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MiftikCZ&theme=github-dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
