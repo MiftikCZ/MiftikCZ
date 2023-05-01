@@ -1,16 +1,18 @@
 ![image](https://user-images.githubusercontent.com/89579269/232533481-82bfaf3b-7e96-4360-bad3-5fa8daaf0c7a.png)
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Ahoj! Jsem MiftikCZ</h2>
+<h2 align="center"><a href="https://emoji.gg/emoji/6375-birdtrip"><img src="https://cdn3.emoji.gg/emojis/6375-birdtrip.gif" height="32px" alt="BirdTrip"></a> Ahoj! Jsem MiftikCZ</h2>
 <p align="center">
   <a href="https://miftik.tk">Web</a> •
   <a href="https://miftikcz.github.io/miftikcz">Portfolio</a>
 </p>
 
-- 🌱 Dělám webové aplikace a frontend v HTML & CSS
-- 📖 Učím se vytvářet hry i mobilní aplikace
-- 🔗 Vetšinu projektů mám u mě na [webu](https://miftik.tk)
-- 🐦 Fun fact: můj oblíbený pták je vrabec
-- ☃️ Programuji cca od roku 2020
+- 🌱 Dělám webové aplikace a frontend v HTML & CSS.
+- 📖 Učím se vytvářet hry i mobilní aplikace.
+- 🔗 Vetšinu projektů mám u mě na [webu](https://miftik.tk).
+- 🐦 Fun fact: můj oblíbený pták je vrabec.
+- ☃️ Programuji cca od roku 2020.
+- 🌵 Pro vlastní účely raději vytvářím aplikace.
+- 💰 Pro business účely raději vytvářím webové HTML/CSS stránky.
 -------
 
 **🔥 Moje asi nejlepší projekty**
@@ -28,5 +30,3 @@
 <p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" /> <img height="32" width="32" src="https://cdn.simpleicons.org/godotengine" /> <img height="32" width="32" src="https://cdn.simpleicons.org/rust" />
 </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MiftikCZ&theme=github-dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
