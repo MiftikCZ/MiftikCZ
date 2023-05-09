@@ -160,7 +160,6 @@ body {
     padding: 0.25em;
 }
 
-
 .section.whoami .content {
     max-width: 500px;
     width: fit-content;
@@ -216,8 +215,19 @@ body {
 .section.projects > .header {
     position: relative;
     padding: 1rem;
+    padding-bottom: 0;
     font-size: 1.5em;
     font-weight: 500;
+}
+
+.section.projects > .podtext {
+    color: #eeec;
+    font-style: italic;
+    position: relative;
+    padding-left: 1rem;
+    font-size: 1em;
+    font-weight: 400;
+    padding-bottom: 1rem;
 }
 
 .section.projects {
