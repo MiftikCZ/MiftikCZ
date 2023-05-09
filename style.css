@@ -2,6 +2,12 @@
 
 :root {
     font-size: 20px;
+    --section-first: #4a4d5d;
+    --section-second: #1D263B;
+    --container: #eee4;
+    --on-first: #000;
+    --on-second: #000;
+    --primary: #030c3b;
 }
 
 * {
@@ -35,6 +41,11 @@ body {
     top: 0;
 }
 
+.section .waves > path {
+
+    fill: var(--section-first) !important;
+}
+
 .section.first {
     /* background: rgb(157, 153, 208); */
     background: rgb(102, 92, 112);
@@ -44,6 +55,8 @@ body {
     gap: 1em;
     justify-content: center;
     align-items: center;
+
+    background: var(--section-first);
 }
 
 .section.first .main {
@@ -52,6 +65,14 @@ body {
     gap: 1em;
     justify-content: center;
     align-items: center;
+}
+
+@media (max-width: 700px) {
+    .section.whoami {
+        display: flex;
+        padding: 1em;
+        flex-direction: column-reverse !important;
+    }
 }
 
 .section.first .skills {
@@ -66,9 +87,12 @@ body {
 
 .section.first .skills .skill {
     font-size: 0.9em;
-    background: #443f52;
+    background: #343144aa;
+    --hue: 220;
+    /* background: hsl(var(--hue), 10%, 10%); */
     /*color: #aab;*/
     color: #9b7af4;
+    /* color: hsl(calc(var(--hue) - 20), 38%, 35%); */
     padding: 0.25em 0.5em;
     border-radius: 0.5em;
 }
@@ -115,13 +139,14 @@ body {
     font-weight: bold;
     font-size: 1.25em;
     /* padding: 0 0.5em; */
-    color: #eeea;
+    color: var(--container);
 }
 
 
 .section .sel {
     color: rgb(74, 74, 135);
     font-weight: 500;
+    color: var(--primary);
 }
 
 /* WHO AM I*/
@@ -141,6 +166,7 @@ body {
     width: fit-content;
     font-size: 1em;
     letter-spacing: 1px;
+    background: var(--container) !important;
 }
 
 .section.whoami .header {
@@ -153,6 +179,7 @@ body {
 .section.whoami {
     background: #9fc69f;
     color: #222;
+    color: var(--on-first);
     /* color: #eeee; */
     display: flex;
     flex-direction: row;
@@ -160,6 +187,9 @@ body {
     /* min-height: calc(100vh + 15vw); */
     justify-content: center;
     align-items: center;
+
+    background: #344e41;
+    background: var(--section-first);
 }
 
 .section.whoami .content {
@@ -168,6 +198,8 @@ body {
     max-width: 600px;
     border-radius: 1em;
     background: #9fc69f;
+    background: #344e41;
+    background: var(--section-first);
 }
 
 .section.whoami .content .gapped{
@@ -182,20 +214,22 @@ body {
 }
 
 .section.projects > .header {
+    position: relative;
+    padding: 1rem;
     font-size: 1.5em;
     font-weight: 500;
-    padding-bottom: 0.25em;
 }
 
 .section.projects {
     position: relative;
     background: url("assets/bg.svg") bottom no-repeat;
+    background: var(--section-second);
     min-height: 100vh;
     height: 100%;
     max-height: unset;
     background-size: cover;
     color: #eeee;
-    padding: 1em;
+    /* padding: 1em; */
 }
 
 .section.projects .projects {
@@ -204,13 +238,15 @@ body {
     position: relative;
     /* display: flex; */
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-
+    grid-template-columns: repeat(auto-fill, minmax(400px, 400px));
+    place-items: center;
+    place-content: center;
+    gap: 0.5em;
     grid-auto-flow: row;
 }
 
 .section.projects .projects .project {
-    border: #eee5 2px solid;
+    border: #0005 2px solid;
     /* width: var(--height);
     height: var(--width); */
     /* height: var(--width); */
@@ -221,6 +257,8 @@ body {
     width: 400px;
     /* height: 200px; */
     position: relative;
+    border-radius: 1em;
+    overflow: hidden;
     cursor: pointer;
 }
 
@@ -294,6 +332,8 @@ body {
     height: 100%;
     min-height: 100vh;
     background: #c6a19f;
+    background: var(--section-second);
+    color: var(--on-second);
 }
 
 .section.whatcanido .content {
