@@ -2,13 +2,13 @@
 
 <h2 align="center"><a href="https://emoji.gg/emoji/6375-birdtrip"><img src="https://cdn3.emoji.gg/emojis/6375-birdtrip.gif" height="32px" alt="BirdTrip"></a> Ahoj! Jsem MiftikCZ</h2>
 <p align="center">
-  <a href="https://miftik.tk">Web</a> •
+  <a href="https://miftik.xyz">Web</a> •
   <a href="https://miftikcz.github.io/miftikcz">Portfolio</a>
 </p>
 
 - 🌱 Dělám webové aplikace a frontend v HTML & CSS.
 - 📖 Učím se vytvářet hry i mobilní aplikace.
-- 🔗 Vetšinu projektů mám u mě na [webu](https://miftik.tk).
+- 🔗 Vetšinu projektů mám u mě na [webu](https://miftik.xyz).
 - 🐦 Fun fact: můj oblíbený pták je vrabec.
 - ☃️ Programuji cca od roku 2020.
 - 🌵 Pro vlastní účely raději vytvářím aplikace.
